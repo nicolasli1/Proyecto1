@@ -1,0 +1,4 @@
+El numero de palabras encontradas con n es: 3
+Mas de 15 palabras cuantas veces:  3
+El numero de parrafos es: 6
+El numero de caracteres con las excepciones es: 100

@@ -1,0 +1,15 @@
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/bin/Debug/net5.0/Proyecto_1_NLP.deps.json
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/bin/Debug/net5.0/Proyecto_1_NLP.runtimeconfig.json
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/bin/Debug/net5.0/Proyecto_1_NLP.runtimeconfig.dev.json
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/bin/Debug/net5.0/Proyecto_1_NLP.dll
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/bin/Debug/net5.0/ref/Proyecto_1_NLP.dll
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/bin/Debug/net5.0/Proyecto_1_NLP.pdb
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/obj/Debug/net5.0/Proyecto_1_NLP.csproj.AssemblyReference.cache
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/obj/Debug/net5.0/Proyecto_1_NLP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/obj/Debug/net5.0/Proyecto_1_NLP.AssemblyInfoInputs.cache
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/obj/Debug/net5.0/Proyecto_1_NLP.AssemblyInfo.cs
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/obj/Debug/net5.0/Proyecto_1_NLP.csproj.CoreCompileInputs.cache
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/obj/Debug/net5.0/Proyecto_1_NLP.dll
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/obj/Debug/net5.0/ref/Proyecto_1_NLP.dll
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/obj/Debug/net5.0/Proyecto_1_NLP.pdb
+/Users/nicolas/Projects/Proyecto_1_NLP/Proyecto_1_NLP/obj/Debug/net5.0/Proyecto_1_NLP.genruntimeconfig.cache
